@@ -1,5 +1,11 @@
-### Hi there 👋
+[![Alessandro Belli, Multimedia Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Multimedia%20Developer&title=Alessandro%20Belli)](https://pimp-my-readme.webapp.io)
 
+- 🔭 I’m currently working on [MeSoftware](https://www.mesoftware.org/)
+- 🌱 I’m currently learning to develop a Ghost Theme! 👻
+- 🤔 I’m looking for help with [Notion Hook, my Notion ↔️ Github Connection.](https://github.com/alessandrobelli/NotionHook)
+- 📫 How to reach me: [On Twitter!](https://twitter.com/Ale_Belli90)
+
+[![JavaScript_HTML_CSS_Python_MySQL_Laravel_Flutter](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_MySQL_Laravel_Flutter)](https://pimp-my-readme.webapp.io)
 <!--
 **alessandrobelli/alessandrobelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
