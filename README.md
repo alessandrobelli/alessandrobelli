@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning to develop a Ghost Theme! 👻
 - 🤔 I’m looking for help with [Notion Hook, my Notion ↔️ Github Connection.](https://github.com/alessandrobelli/NotionHook)
 - 📫 How to reach me: [On Twitter!](https://twitter.com/Ale_Belli90)
+- ⚡ Fun fact: [I have a YouTube Channel!](https://www.youtube.com/channel/UCM3TyjcZ7Y0h6E3fMor3gGg)
 
 [![JavaScript_HTML_CSS_Python_MySQL_Laravel_Flutter](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_MySQL_Laravel_Flutter)](https://pimp-my-readme.webapp.io)
 <!--
