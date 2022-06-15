@@ -1,5 +1,3 @@
-
-[![Alessandro Belli, Multimedia Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Multimedia%20Developer&title=Alessandro%20Belli)](https://pimp-my-readme.webapp.io)
 - 🔭 I’m currently working on [MeSoftware](https://www.mesoftware.org/)
 - 🌱 I’m currently learning how to connect YouTube API and Notion API.
 - 🤔 I’m looking for help with [Notion Hook, my Notion ↔️ Github Connection.](https://github.com/alessandrobelli/NotionHook)
@@ -7,10 +5,9 @@
 - 📫 How to reach me: [My Website!](https://alessandrobelli.it) - that has my theme [Ghostelli](https://github.com/alessandrobelli/ghostelli) 👻. 
 - ⚡ Fun fact: [I have a YouTube Channel!](https://www.youtube.com/channel/UCM3TyjcZ7Y0h6E3fMor3gGg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrobelli)](https://github.com/alessandrobelli/github-readme-stats) 
-[![Buy Me a Espresso](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/alessandrobelli)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrobelli)](https://github.com/alessandrobelli/github-readme-stats)
 
-[![JavaScript_HTML_CSS_Python_MySQL_Laravel_Flutter](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_MySQL_Laravel_Flutter_TailwindCSS_NodeJS)](https://pimp-my-readme.webapp.io)
+[![Buy Me a Espresso](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/alessandrobelli)
 
 <!--
 **alessandrobelli/alessandrobelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
