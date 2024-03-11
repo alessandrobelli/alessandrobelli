@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [MeSoftware](https://www.mesoftware.org/)
+- 🔭 I’m currently working on [MeSoftware](https://www.mesoftware.org/) and [OpenQDA](https://www.openqda.org)
 - 🌱 I’m currently learning how to connect YouTube API and Notion API, as well as Obsidian and Notion.
 - 🤔 I’m looking for help with [Notion Hook, my Notion ↔️ Github Connection.](https://github.com/alessandrobelli/NotionHook)
 - 📫 How to reach me: [On Twitter!](https://twitter.com/alebelli90)
