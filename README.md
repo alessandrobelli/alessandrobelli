@@ -1,9 +1,8 @@
-- 🔭 I’m currently working on [MeSoftware](https://www.mesoftware.org/) and [OpenQDA](https://www.openqda.org)
-- 🌱 I’m currently learning how to connect YouTube API and Notion API, as well as Obsidian and Notion.
-- 🤔 I’m looking for help with [Notion Hook, my Notion ↔️ Github Connection.](https://github.com/alessandrobelli/NotionHook)
-- 📫 How to reach me: [On Twitter!](https://twitter.com/alebelli90)
-- 📫 How to reach me: [My Website!](https://alessandrobelli.it) - that has my theme [Ghostelli](https://github.com/alessandrobelli/ghostelli) 👻. 
-- ⚡ Fun fact: [I have a YouTube Channel!](https://www.youtube.com/channel/UCM3TyjcZ7Y0h6E3fMor3gGg)
+- 🔭 I’m currently working on [MeSoftware](https://www.mesoftware.org/) and [OpenQDA](https://www.openqda.org).
+- 🌱 I will make a custom made theme for [Obsidian.md](https://obsidian.md/).
+- 📫 How to reach me: [On Twitter/X!](https://twitter.com/alebelli90).
+- 📫 How to reach me: [My Website!](https://alessandrobelli.it) - that has a custom made theme. 
+- ⚡ Fun fact: [I have a YouTube Channel!](https://www.youtube.com/channel/UCM3TyjcZ7Y0h6E3fMor3gGg) that unfortunately I can't update as of now.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrobelli)](https://github.com/alessandrobelli/github-readme-stats)
 
