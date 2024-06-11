@@ -30,7 +30,7 @@
 
 ## Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alessandrobelli)
-[![KoFi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.buymeacoffee.com/alessandrobelli](https://ko-fi.com/pakle))
+[![KoFi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pakle)
 [![GitHubSponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)]([editing=false&preview=true&sponsor=alessandrobelli)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alessandrobelli)
