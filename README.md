@@ -3,7 +3,11 @@
 
 ## Upcoming Projects
 - 🌱 Planning to create a custom theme for [Obsidian.md](https://obsidian.md/).
-- 🎮 My own game, sooner or later ⚡⚡⚡
+- 🎮 Working on a game, sooner or later ⚡⚡⚡
+
+## Past Projects
+- 🔴 [MeSort](https://github.com/zemki/mesort/)
+- 🔴 MeTag & MeTag Analyze
 
 ## Contact
 - 📫 Reach me on [Twitter/X](https://twitter.com/alebelli90).
