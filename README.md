@@ -10,7 +10,7 @@
 - 🔴 MeTag & MeTag Analyze
 
 ## Contact
-- 📫 Reach me on [Twitter/X](https://twitter.com/alebelli90).
+- 📫 Reach me on [BlueSky](https://bsky.app/profile/alessandrobelli.it).
 - 📫 My [website](https://alessandrobelli.it) which has a custom Ghost theme.
 
 ## Fun Fact
