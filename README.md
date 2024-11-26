@@ -7,7 +7,7 @@
 
 ## Past Projects
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
-- 🔴 MeTag & MeTag Analyze
+- 🔴 MeTag & [MeTag Analyze](https://github.com/zemki/metag-analyze/)
 
 ## Contact
 - 📫 Reach me on [BlueSky](https://bsky.app/profile/alessandrobelli.it).
