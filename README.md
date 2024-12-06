@@ -1,13 +1,13 @@
 ## Current Projects
-- 🔭 Working on [MeSoftware](https://www.mesoftware.org/) and [OpenQDA](https://www.openqda.org).
+- 🔭 Working on [OpenQDA](https://www.openqda.org).
+- 🎓 Learning Unreal Engine 5 and Houdini.
 
 ## Upcoming Projects
-- 🌱 Planning to create a custom theme for [Obsidian.md](https://obsidian.md/).
-- 🎮 Working on a game, sooner or later ⚡⚡⚡
+- 🌱 Actively write on my website. I want to do it regularly.
 
 ## Past Projects
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
-- 🔴 MeTag & [MeTag Analyze](https://github.com/zemki/metag-analyze/)
+- 🔴 [MeTag](https://github.com/zemki/metag) & [MeTag Analyze](https://github.com/zemki/metag-analyze/)
 
 ## Contact
 - 📫 Reach me on [BlueSky](https://bsky.app/profile/alessandrobelli.it).
