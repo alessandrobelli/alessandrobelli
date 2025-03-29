@@ -21,6 +21,9 @@
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-%23313131.svg?style=for-the-badge&logo=perforce&logoColor=blue)
 ![JetBrains Rider](<https://img.shields.io/badge/JetBrains Rider-5C2D91.svg?style=for-the-badge&logo=rider&logoColor=white>)
+![Houdini](https://img.shields.io/static/v1?style=for-the-badge&message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label=)
+
+
 
 ![Digital Ocean](<https://img.shields.io/badge/Digital Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white>)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
