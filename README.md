@@ -1,9 +1,9 @@
 ## Current Projects
 - 🔭 Working on [OpenQDA](https://www.openqda.org).
-- 🎓 Learning Unreal Engine 5 and Houdini.
+- 🔫 Implementing shooting techniques in C++. [Here is the repository](https://github.com/alessandrobelli/TPS-Study) and [here is the article about it](https://alessandrobelli.it/creating-fortnite-shooting-cpp/).
 
 ## Upcoming Projects
-- 🌱 Actively write on my website. I want to do it regularly.
+- 🌱 Documenting my coding techniques and continuos learning.
 
 ## Past Projects
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
@@ -17,6 +17,12 @@
 - ⚡ [I have a YouTube Channel](https://www.youtube.com/channel/UCM3TyjcZ7Y0h6E3fMor3gGg) that I can't update currently.
 
 ## Technologies & Tools
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-%23313131.svg?style=for-the-badge&logo=perforce&logoColor=blue)
+![JetBrains Rider](<https://img.shields.io/badge/JetBrains Rider-5C2D91.svg?style=for-the-badge&logo=rider&logoColor=white>)
+
+![Digital Ocean](<https://img.shields.io/badge/Digital Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white>)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
@@ -27,7 +33,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
