@@ -3,7 +3,7 @@
 - 🔫 Implementing shooting techniques in C++. [Here is the repository](https://github.com/alessandrobelli/TPS-Study) and [here is the article about it](https://alessandrobelli.it/creating-fortnite-shooting-cpp/).
 
 ## Upcoming Projects
-- 🌱 Revisting std::vector, std::map, std::unordered_map, and std::list in C++. 
+- 🌱 Revisiting std::vector, std::map, std::unordered_map, and std::list in C++. 
 
 ## Past Projects
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
