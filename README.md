@@ -9,6 +9,8 @@
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
 - 🔴 [MeTag](https://github.com/zemki/metag) & [MeTag Analyze](https://github.com/zemki/metag-analyze/)
 - 🔴 My [website](https://alessandrobelli.it) which has a custom Ghost theme.
+- [Clumsy Looter](https://pakle.itch.io/clumsy-looter) - a game about following a guy that is trying to loot stuff (Turn Based combat in Unity).
+- [End Of Time](https://pakle.itch.io/end-of-time) - 2D spaceship game in Unity.
 
 ## Contact
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/alessandrobelli90/).
