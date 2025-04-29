@@ -8,13 +8,10 @@
 ## Past Projects
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
 - 🔴 [MeTag](https://github.com/zemki/metag) & [MeTag Analyze](https://github.com/zemki/metag-analyze/)
+- 🔴 My [website](https://alessandrobelli.it) which has a custom Ghost theme.
 
 ## Contact
-- 📫 Reach me on [BlueSky](https://bsky.app/profile/alessandrobelli.it).
-- 📫 My [website](https://alessandrobelli.it) which has a custom Ghost theme.
-
-## Fun Fact
-- ⚡ [I have a YouTube Channel](https://www.youtube.com/channel/UCM3TyjcZ7Y0h6E3fMor3gGg) that I can't update currently.
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/alessandrobelli90/).
 
 ## Technologies & Tools
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
