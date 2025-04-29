@@ -1,9 +1,9 @@
 ## Current Projects
-- 🔭 Working on [OpenQDA](https://www.openqda.org).
+- 🔭 Working on [COMai](https://comai.space/en/members/alessandro-belli/) - Tools and resources for researchers in the COMAI (Multimodal AI Literacy) project.
 - 🔫 Implementing shooting techniques in C++. [Here is the repository](https://github.com/alessandrobelli/TPS-Study) and [here is the article about it](https://alessandrobelli.it/creating-fortnite-shooting-cpp/).
 
 ## Upcoming Projects
-- 🌱 Documenting my coding techniques and continuos learning.
+- 🌱 Revisting std::vector, std::map, std::unordered_map, and std::list in C++. 
 
 ## Past Projects
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
