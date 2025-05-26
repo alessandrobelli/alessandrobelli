@@ -1,11 +1,13 @@
 ## Current Projects
 - 🔭 Working on [COMai](https://comai.space/en/members/alessandro-belli/) - Tools and resources for researchers in the COMAI (Multimodal AI Literacy) project.
 - 🔫 Implementing shooting techniques in C++. [Here is the repository](https://github.com/alessandrobelli/TPS-Study) and [here is the article about it](https://alessandrobelli.it/creating-fortnite-shooting-cpp/).
+- 🔭 Mastering Low level C++ memory managament, with a focus on Game Development.
 
 ## Upcoming Projects
 - 🌱 Revisiting std::vector, std::map, std::unordered_map, and std::list in C++. 
 
 ## Past Projects
+- [Ticker Farm](https://github.com/alessandrobelli/FarmingThemeDTJ36) - 3D top down farming game made in 36 hours for the [🍯Devs That Jam 36-hour Challenge #14 Game Jam](https://itch.io/jam/dtj36-14/rate/3589696).
 - 🔴 [MeSort](https://github.com/zemki/mesort/)
 - 🔴 [MeTag](https://github.com/zemki/metag) & [MeTag Analyze](https://github.com/zemki/metag-analyze/)
 - 🔴 My [website](https://alessandrobelli.it) which has a custom Ghost theme.
